@@ -6,7 +6,7 @@ namespace OurDotnetApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World, my 
+            Console.WriteLine("Hello World, my name is Pip");
         }
     }
 }
